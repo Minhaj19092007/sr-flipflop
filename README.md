@@ -41,7 +41,9 @@ Reg No: 25006694
 
 
 TIMING DIGRAMS FOR FLIP FLOPS 
-[wave.bmp](https://github.com/user-attachments/files/24150243/wave.bmp)
+
+
+[wave2.bmp](https://github.com/user-attachments/files/24158068/wave2.bmp)
 
 
 RESULTS Thus the SR flipflop is implemented successfully and truth table has verified
